@@ -1,1 +1,12 @@
+# Ignore compiled class files
+*.class
+
+# Ignore build/ and target/ directories
 /build/
+/target/
+
+# Ignore Eclipse project files
+/.settings/
+/.classpath
+/.project
+
